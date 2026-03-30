@@ -1,4 +1,4 @@
-<img width="100%" title="TEAM - SRS" alt="mishbahop" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MISHBAH－ＳＲＳ&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Be%20Aware%20%7C%20Be%20Safe&descAlignY=70&descAlign=50&descSize=20"/>
+<img width="100%" title="TEAM - SRS" alt="mishbahop" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MISHBAH&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Be%20Aware%20%7C%20Be%20Safe&descAlignY=70&descAlign=50&descSize=20"/>
 
 
 <table border="0">
